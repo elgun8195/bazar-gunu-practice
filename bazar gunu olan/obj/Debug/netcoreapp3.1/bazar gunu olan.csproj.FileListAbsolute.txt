@@ -12,3 +12,17 @@ C:\Users\tu741rmps\Desktop\bazar gunu olan\bazar gunu olan\obj\Debug\netcoreapp3
 C:\Users\tu741rmps\Desktop\bazar gunu olan\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.dll
 C:\Users\tu741rmps\Desktop\bazar gunu olan\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.pdb
 C:\Users\tu741rmps\Desktop\bazar gunu olan\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.genruntimeconfig.cache
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\bin\Debug\netcoreapp3.1\bazar gunu olan.exe
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\bin\Debug\netcoreapp3.1\bazar gunu olan.deps.json
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\bin\Debug\netcoreapp3.1\bazar gunu olan.runtimeconfig.json
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\bin\Debug\netcoreapp3.1\bazar gunu olan.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\bin\Debug\netcoreapp3.1\bazar gunu olan.dll
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\bin\Debug\netcoreapp3.1\bazar gunu olan.pdb
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.dll
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.pdb
+C:\Users\Acer\Desktop\SQL_INTRO\bazar-gunu-practice\bazar gunu olan\obj\Debug\netcoreapp3.1\bazar gunu olan.genruntimeconfig.cache
