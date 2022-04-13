@@ -18,6 +18,14 @@ namespace bazar_gunu_olan
 
             Student student1 = new Student("Elgun","Qocayev",age);
 
+
+            do
+            {
+                Console.WriteLine("Studentin Yasini Girin: ");
+                age = Convert.ToInt32(Console.ReadLine());
+            } while (age == 0 || age < 0);
+
+            Student student2 = new Student("Ahmed", "Jabrayilov", age);
             do
             {
                 Console.WriteLine("Teacherin Yasini Girin: ");
@@ -39,8 +47,13 @@ namespace bazar_gunu_olan
 
             Group group1 = new Group();
             group1.AddStudent(student1);
-            
-            
+            group1.AddStudent(student2);
+
+            foreach (Student student in group1.students)
+            {
+                Console.WriteLine(student.Name + " " + student.Surname + " " + student.Age);
+            }
+
         }
     }
 }
